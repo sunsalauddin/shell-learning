@@ -13,12 +13,12 @@ COUNT=COUNT+1
 echo "COUNT is: $COUNT"
 
 
-FRUITS= ("Apple" "Banana" "papaya") # --> this is called array
+FRUITS=("Apple" "Banana" "papaya") # --> this is called array
 
 echo "All fruits : ${FRUITS[@]}"
 echo "first fruit is : ${FRUITS[1]}
 
 
 
-NAME ="siva kumar Reddy M"
+NAME="siva kumar Reddy M"
 echo "${NAME}ettukure"
