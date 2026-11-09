@@ -20,5 +20,5 @@ echo "first fruit is : ${FRUITS[1]}
 
 
 
-NAME= "{siva kumar Reddy M}"
-echo "${NAME}ettukure"
+NAME= "siva kumar Reddy M"
+echo ${NAME}ettukure
