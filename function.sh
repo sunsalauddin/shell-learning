@@ -9,9 +9,9 @@ if [ $user_id -ne 0 ]; then
 
 validate (){
     if [ $1 -ne 0 ]; then
-    echo "$2 installation is: Failed"
+    echo "{$2} installation is: Failed"
     else 
-    echo "$2 installation is: Suceess"
+    echo "{$2} installation is: Succeess"
     fi
 
 }  
